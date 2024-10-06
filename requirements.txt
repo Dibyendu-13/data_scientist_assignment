@@ -1,0 +1,4 @@
+PyMuPDF==1.20.2
+pytesseract==0.3.9
+opencv-python==4.10.0.82  # Updated to a newer stable version
+langdetect==1.0.9
